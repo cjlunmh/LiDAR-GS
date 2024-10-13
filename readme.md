@@ -31,9 +31,10 @@
 After the paper is accepted, source code will be made publicly available. If you have any questions about main-paper, please feel free to contact us.
 
 ## Video
-<video width="320" height="240" controls>
+<!-- <video width="320" height="240" controls>
   <source src="https://github.com/cjlunmh/LiDAR-GS/blob/main/video.mp4" type="video/mp4">
-</video>
+</video> -->
+[more results](https://github.com/cjlunmh/LiDAR-GS/blob/main/video.mp4)
 
 ## Prepare and Run
 Coming soon...
