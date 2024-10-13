@@ -32,7 +32,7 @@ After the paper is accepted, source code will be made publicly available. If you
 
 ## Video
 <video width="320" height="240" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="https://github.com/cjlunmh/LiDAR-GS/blob/main/video.mp4" type="video/mp4">
 </video>
 
 ## Prepare and Run
